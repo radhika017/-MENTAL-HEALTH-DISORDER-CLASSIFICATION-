@@ -163,5 +163,13 @@ Kot Bhalwal, Jammu
 ## 📷 Project Screenshots
 (Add screenshots, flowcharts, and result graphs here)
 
-```bash
-images/
+<img width="1640" height="914" alt="Screenshot 2024-06-10 211048" src="https://github.com/user-attachments/assets/22430028-f1e4-41e0-83cf-ffd790380581" />
+<img width="524" height="540" alt="Screenshot 2024-06-12 154147" src="https://github.com/user-attachments/assets/8683c932-4562-4c0d-9e67-7e9f70ef0b3d" />
+<img width="1799" height="443" alt="Screenshot 2024-04-22 145551" src="https://github.com/user-attachments/assets/4bbe4551-d8e5-4fc3-abe3-eb0e401e2d42" />
+<img width="1141" height="639" alt="Screenshot 2024-04-25 142854" src="https://github.com/user-attachments/assets/90c4c671-4e96-4792-8e17-f9f5d0239378" />
+<img width="809" height="498" alt="Screenshot 2024-04-25 143015" src="https://github.com/user-attachments/assets/7febe901-0287-4596-91f5-7cada267b6e6" />
+<img width="908" height="701" alt="Screenshot 2024-04-25 143006" src="https://github.com/user-attachments/assets/abf1fe84-2f02-4858-a7ac-5aa296931f09" />
+<img width="726" height="578" alt="Screenshot 2024-04-25 142714" src="https://github.com/user-attachments/assets/c435cd3c-4c4e-451e-802c-62dd8ebd0fd8" />
+
+
+
